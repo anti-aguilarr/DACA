@@ -1,0 +1,15 @@
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+.eslintcache
+
+node_modules
+bower_components
+
+## vs code ## 
+psd
+thumb
+sketch
